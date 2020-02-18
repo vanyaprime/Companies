@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="database_name">companies-db</string>
+    <string name="base_url">http://megakohz.bget.ru/test_task/</string>
+</resources>
